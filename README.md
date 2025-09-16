@@ -27,6 +27,6 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 > Harga sudah termasuk ongkir cai-indo, biaya pengiriman ke alamat masing2 kita kabar2 lagi kalo udah sampe indo, ya!😉
 ***
 # Kontak Pemesanan
-Whatsapp: [[https://wa.me/201148053937|+201148053937 (admin)]]
+Whatsapp: [+201148053937 (admin)](https://wa.me/201148053937)
 
-Instagram: [[ https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==|jastipmesirdulu]]
+Instagram: [jastipmesirdulu](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==)
