@@ -19,7 +19,7 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 # Cara pesan 🤗
 
 1. Screenshot dan tandai produk yang kamu pengen, bisa dari foto ataupun video
-2. Kirim ke [[https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==|DM Instagram]] atau kontak [[https://wa.me/201148053937|Whatsapp]] untuk pesan (tanya-tanya dulu juga bwolehh) 🤗
+2. Kirim ke [DM Instagram](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==) atau kontak [Whatsapp](https://wa.me/201148053937) untuk pesan (tanya-tanya dulu juga bwolehh) 🤗
 3. Isi format pemesanan yg udah siapkan admin
 4. Pembayaran
 5. Pesanan segera diproses
