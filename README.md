@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 title: Beranda
 ---
-# Beranda
+## Beranda
 Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan. 
 
 - [[Pashmina Cashmere]]
@@ -16,7 +16,7 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 - [[Abaya A (400k-560k)]]
 - [[Abaya B (551k-760k)]]
 ***
-# Cara pesan 🤗
+## Cara pesan 🤗
 
 1. Screenshot dan tandai produk yang kamu pengen, bisa dari foto ataupun video
 2. Kirim ke [DM Instagram](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==) atau kontak [Whatsapp](https://wa.me/201148053937) untuk pesan (tanya-tanya dulu juga bwolehh) 🤗
@@ -26,7 +26,7 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 
 > Harga sudah termasuk ongkir cai-indo, biaya pengiriman ke alamat masing2 kita kabar2 lagi kalo udah sampe indo, ya!😉
 ***
-# Kontak Pemesanan
+## Kontak Pemesanan
 Whatsapp: [+201148053937 (admin)](https://wa.me/201148053937)
 
 Instagram: [jastipmesirdulu](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==)
