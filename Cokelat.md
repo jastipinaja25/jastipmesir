@@ -1,9 +1,10 @@
 ---
 title: Cokelat
 ---
-![[IMG_0643 1.webp]]![[IMG_0638 1.webp]]
-
-![[IMG_0636 1.webp]]![[IMG_0642 1.webp]]
+![[IMG_0638 1.webp]]
+![[IMG_0636 1.webp]]
+![[IMG_0643 1.webp]]
+![[IMG_0642 1.webp]]
 
 ![[IMG_0632.webp]]
 ![[IMG_0633.webp]]
