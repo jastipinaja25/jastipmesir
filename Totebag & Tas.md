@@ -8,13 +8,15 @@ title: Totebag & Tas
 ***
 ### Totebag Stiker (kanvas) - Rp. 60.000
 ![[IMG_0607.webp]]
-![[IMG_0605.mp4]]
+
+![[IMG_0605.mp4|Video]]
 ***
 ### Totebag Sablon (kanvas) - Rp. 65.000
 ![[IMG_0439.webp]]
 ![[IMG_0436.webp]]
 ![[IMG_0609.webp]]
-![[IMG_0604.mp4]]
+
+![[IMG_0604.mp4|Video]]
 ***
 ### Totebag Selempang (kanvas) - Rp. 75.000
 ![[IMG_0438.webp]]
