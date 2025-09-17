@@ -74,6 +74,7 @@ size: XL, 2XL, 3XL
 ![[IMG_0600.webp]]
 ![[IMG_0601-1.webp]]
 ***
+### Rp.665.000
 ![[IMG_0602.webp]]
 ***
 ### Rp. 665.000
@@ -87,5 +88,6 @@ size: XL, 2XL, 3XL
 ![[IMG_0402.webp]]
 ***
 ### Rp. 760.000
+size: XL
 ![[C8B4FE1E-610D-4704-A1BE-C590CD3F1469.webp]]
 ![[2A2A537E-FF06-4EC2-96B2-F4AAE1C5CF1D.webp]]
