@@ -28,4 +28,4 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 ***
 ## Kontak Pemesanan
 Whatsapp: [+201148053937 (admin)](https://wa.me/201148053937)
-Instagram: [jastipmesirdulu](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==)
+Instagram: [@jastipmesirdulu](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==)
