@@ -1,7 +1,7 @@
 ---
 dg-home: true
 dg-publish: true
-title: jastipmesirdulu
+title: Beranda
 ---
 # Beranda
 Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan. 
