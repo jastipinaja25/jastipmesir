@@ -2,6 +2,12 @@
   "showSidebar": true,
   "nav": {
     "title": "jastipmesirdulu",
+    "links": [
+      {
+        "href": "/Cara Pesan",
+        "name": "Cara Pesan"
+      }
+    ],
     "social": [
       {
         "label": "instagram",
@@ -11,3 +17,4 @@
     ]
   }
 }
+
