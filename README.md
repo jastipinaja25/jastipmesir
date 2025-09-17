@@ -16,7 +16,7 @@ Silahkan mengunjungi etalase produk-produk Mesir. Segera pesan, keburu kehabisan
 - [[Abaya A (400k-560k)]]
 - [[Abaya B (551k-760k)]]
 ***
-## Cara pesan 🤗
+## Cara Pesan 🤗
 
 1. Screenshot dan tandai produk yang kamu pengen, bisa dari foto ataupun video
 2. Kirim ke [DM Instagram](https://www.instagram.com/jastipmesirdulu?igsh=MTR6enNpeHpsdDk4NA==) atau kontak [Whatasapp](https://wa.me/201148053937) untuk pesan (tanya-tanya dulu juga bwolehh) 🤗
